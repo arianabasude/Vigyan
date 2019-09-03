@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "557846991835",
+    "firebase_url": "https://hostelattendance-fd8db.firebaseio.com",
+    "project_id": "hostelattendance-fd8db",
+    "storage_bucket": "hostelattendance-fd8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557846991835:android:c7202b758a383b26",
+        "android_client_info": {
+          "package_name": "com.urstrulygsw.hostelattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557846991835-mn033f30nsphb6msf768iujhtfspahms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urstrulygsw.hostelattendance",
+            "certificate_hash": "b3b2cb2ceff3483efe74e3b52cce875f8673e2e1"
+          }
+        },
+        {
+          "client_id": "557846991835-apv19fc1qd01vavdcl419cdk0mipbupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMB0OjpiXW7tAKah-LUcfZWs_6dRk0NLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557846991835-apv19fc1qd01vavdcl419cdk0mipbupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557846991835:android:a1275479098db419",
+        "android_client_info": {
+          "package_name": "project.app.hostelattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557846991835-gkvgbubp7tvavciupjsc4ua85gs2j66t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.app.hostelattendance",
+            "certificate_hash": "bd2cd619d08a8c1a3cc5f7496992c23c53950c98"
+          }
+        },
+        {
+          "client_id": "557846991835-apv19fc1qd01vavdcl419cdk0mipbupk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMB0OjpiXW7tAKah-LUcfZWs_6dRk0NLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557846991835-apv19fc1qd01vavdcl419cdk0mipbupk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
